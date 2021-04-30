@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">quiz</string>
+
+    <string name="score">Score 0/10</string>
+    <string name="question_number">1/10 Question</string>
+
+    <string name="question_1">Which of the following features must be supported by any programming language to become a pure object-oriented programming language?</string>
+    <string name="question1_A">Encapsulation</string>
+    <string name="question1_B">Inheritance</string>
+    <string name="question1_C">Polymorphism</string>
+    <string name="question1_D">All of the above</string>
+    <string name="answer_1">All of the above</string>
+
+
+    <string name="question_2">The programming language that has the ability to create new data types is called</string>
+    <string name="question_2A">Overloaded</string>
+    <string name="question_2B">Encapsulated</string>
+    <string name="question_2C">Reprehensible</string>
+    <string name="question_2D">Extensible</string>
+    <string name="answer_2">Extensible</string>
+
+
+    <string name="question_3">Which of the following is the original creator of the C++ language?</string>
+    <string name="question_3A">Dennis Ritchie</string>
+    <string name="question_3B">Ken Thompson</string>
+    <string name="question_3C">Bjarne Stroustrup</string>
+    <string name="question_3D">Brian Kernighan</string>
+    <string name="answer_3">Bjarne Stroustrup</string>
+
+    <string name="question_4">Which of the following statements is correct about the formal parameters in C++?</string>
+    <string name="question_4A">Parameters with which functions are called</string>
+    <string name="question_4B">Parameters which are used in the definition of the function</string>
+    <string name="question_4C">Variables other than passed parameters in a function</string>
+    <string name="question_4D">Variables that are never used in the function</string>
+    <string name="answer_4">Parameters with which functions are called</string>
+
+    <string name="question_5">The C++ language is ______ object-oriented language.</string>
+    <string name="question_5A"> Pure Object oriented</string>
+    <string name="question_5B">Not Object oriented</string>
+    <string name="question_5C">Semi Object-oriented or Partial Object-oriented</string>
+    <string name="question_5D">None of the above</string>
+    <string name="answer_5">Semi Object-oriented or Partial Object-oriented</string>
+
+    <string name="question_6">C++ is a ___ type of language.</string>
+    <string name="question_6A">High-level Language</string>
+    <string name="question_6B">Low-level language</string>
+    <string name="question_6C">Middle-level language</string>
+    <string name="question_6D">None of the above</string>
+    <string name="answer_6">Middle-level language</string>
+
+    <string name="question_7"> Which types of arrays are always considered as linear arrays?</string>
+    <string name="question_7A">Single-dimensional</string>
+    <string name="question_7B">Multi-dimensional</string>
+    <string name="question_7C">Both A and B</string>
+    <string name="question_7D">None of the above</string>
+    <string name="answer_7">Single-dimensional</string>
+
+    <string name="question_8">If we stored five elements or data items in an array, what will be the index address or the index number of the arrays last data item?</string>
+    <string name="question_8A">3</string>
+    <string name="question_8B">4</string>
+    <string name="question_8C">5</string>
+    <string name="question_8D">88</string>
+    <string name="answer_8">4</string>
+
+    <string name="question_9">Which of the following is the correct syntax for declaring the array?</string>
+    <string name="question_9A">init array []</string>
+    <string name="question_9B">int array [5];</string>
+    <string name="question_9C">Array[5];</string>
+    <string name="question_9D">None of the above</string>
+    <string name="answer_9">int array [5];</string>
+
+    <string name="question_10">How many types of elements can an array store?</string>
+    <string name="question_10A">Same types of elements</string>
+    <string name="question_10B">Char and int type</string>
+    <string name="question_10C">Only char types</string>
+    <string name="question_10D">All of the above</string>
+    <string name="answer_10">Same types of elements</string>
+
+    <string name="question_11">Which of the following is not a Java features?</string>
+    <string name="question11_A">Dynamic</string>
+    <string name="question11_B">Architecture Neutral</string>
+    <string name="question11_C">Use of pointers</string>
+    <string name="question11_D">Object-oriented</string>
+    <string name="answer_11">Use of pointers</string>
+
+
+    <string name="question_21">In which memory a String is stored, when we create a string using new operator?</string>
+    <string name="question_21A">Stack</string>
+    <string name="question_21B">String memory</string>
+    <string name="question_21C">Heap memory</string>
+    <string name="question_21D">Random storage space</string>
+    <string name="answer_21">Heap memory</string>
+
+
+    <string name="question_31"> _____ is used to find and fix bugs in the Java programs.</string>
+    <string name="question_31A">JVM</string>
+    <string name="question_31B">JRE</string>
+    <string name="question_31C">JDK</string>
+    <string name="question_31D">JDB</string>
+    <string name="answer_31">JDB</string>
+
+    <string name="question_41">What is the return type of the hashCode() method in the Object class?</string>
+    <string name="question_41A">Object</string>
+    <string name="question_41B">int</string>
+    <string name="question_41C">long</string>
+    <string name="question_41D">void</string>
+    <string name="answer_41">int</string>
+
+    <string name="question_51">Which of the following is a valid long literal?</string>
+    <string name="question_51A">ABH8097</string>
+    <string name="question_51B">L990023</string>
+    <string name="question_51C">904423</string>
+    <string name="question_51D">0xnf029L</string>
+    <string name="answer_51">0xnf029L</string>
+
+    <string name="question_61">In which process, a local variable has the same name as one of the instance variables?</string>
+    <string name="question_61A">Serialization</string>
+    <string name="question_61B">Variable Shadowing</string>
+    <string name="question_61C">Abstraction</string>
+    <string name="question_61D">Multi-threading</string>
+    <string name="answer_61">Variable Shadowing</string>
+
+    <string name="question_71">Which of the following is true about the anonymous inner class?</string>
+    <string name="question_71A">It has only methods</string>
+    <string name="question_71B">Objects cant be created</string>
+    <string name="question_71C">It has a fixed class name</string>
+    <string name="question_71D">It has no class name</string>
+    <string name="answer_71">It has no class name</string>
+
+    <string name="question_81">Which package contains the Random class?</string>
+    <string name="question_81A">java.util package</string>
+    <string name="question_81B">java.lang package</string>
+    <string name="question_81C">java.awt package</string>
+    <string name="question_81D">java.io package</string>
+    <string name="answer_81">java.util package</string>
+
+    <string name="question_91">An interface with no fields or methods is known as a ______.</string>
+    <string name="question_91A">Runnable Interface</string>
+    <string name="question_91B">Marker Interface</string>
+    <string name="question_91C">Abstract Interface</string>
+    <string name="question_91D">CharSequence Interface</string>
+    <string name="answer_91">Marker Interface</string>
+
+    <string name="question_101">Which option is false about the final keyword?</string>
+    <string name="question_101A">A final method cannot be overridden in its subclasses.</string>
+    <string name="question_101B">A final class cannot be extended.</string>
+    <string name="question_101C">A final class cannot extend other classes.</string>
+    <string name="question_101D">A final method can be inherited.</string>
+    <string name="answer_101">A final class cannot extend other classes.</string>
+
+    <string name="selctedoption">SelctedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+
+</resources>
